@@ -2,19 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .header {
-            text-align: center;
-            padding: 10px;
-            background-color: #f8f9fa;
-        }
-        .section {
-            margin: 10px;
-        }
-    </style>
 </head>
 <body>
     <div class="header">
